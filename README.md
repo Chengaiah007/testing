@@ -1,2 +1,2 @@
 # testing
-creating the testing repository
+creating the testing repository telugu skill
